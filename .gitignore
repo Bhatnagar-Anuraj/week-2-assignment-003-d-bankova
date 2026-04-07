@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+*.egg-info/
+grade_report.json
+release_week.py
